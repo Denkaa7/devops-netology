@@ -8,3 +8,5 @@
 - Файлы override.tf и override.tf.json. Файлы, на конце которых *_override.tf и *_override.tf.json
 - Файл .terraform.tfstate.lock.info
 - Файлы .terraformrc и terraform.rc
+
+Change file
